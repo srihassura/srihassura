@@ -1,6 +1,6 @@
 # Srihas Surapaneni
 
-**Applied Mathematics @ Georgia Tech**
+**Applied Mathematics @ Duke**
 
 Exploring intelligent systems for accessible healthcare.
 
@@ -8,7 +8,7 @@ Exploring intelligent systems for accessible healthcare.
 
 ## About
 
-First-year applied mathematics student at Georgia Tech on a pre-medical track.
+First-year applied mathematics student at Duke University on a pre-medical track.
 
 ---
 
